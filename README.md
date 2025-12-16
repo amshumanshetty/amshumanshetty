@@ -8,7 +8,7 @@
 ## 🧑‍💻 About Me
 - 🌱 Currently learning advanced backend & cloud concepts
 - 🛠️ Love working with modern web technologies
-- 📫 Reach me at: **your-email@gmail.com**
+- 📫 Reach me at: **amshushetty01@gmail.com**
 
 ---
 
