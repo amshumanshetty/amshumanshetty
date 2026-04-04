@@ -1,6 +1,6 @@
 # 💫 About Me:
-💻 Full-stack developer | Tech enthusiast
-🎓 Currently studying at JSSATE, Bengaluru
+💻 Full-stack developer | Tech enthusiast<br>
+🎓 Currently studying at JSSATE, Bengaluru<br>
 🚀 Creating reliable web solutions using modern tools
 
 
